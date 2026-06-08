@@ -1,5 +1,6 @@
-[
-    {"name":"Alice", "department":"IT", "salary":90000},
-    {"name":"Bob", "department":"HR", "salary":60000},
-    {"name":"Charlie", "department":"Ops", "salary":70000}
+ [
+    {"name":"Alice","dept":"IT","salary":50000},
+    {"name":"Bob","dept":"IT","salary":70000},
+    {"name":"Charlie","dept":"HR","salary":60000},
+    {"name":"David","dept":"IT","salary":80000}
 ]
