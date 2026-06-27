@@ -1,0 +1,16 @@
+order_id,customer_id,customer_name,city,product,category,quantity,price,discount,payment_method
+1001,C001,Amit,Mumbai,Laptop,Electronics,1,65000,5000,Credit Card
+1002,C002,Priya,Pune,Mobile,Electronics,2,25000,2000,UPI
+1003,C003,Rahul,Delhi,Table,Furniture,1,12000,1000,Cash
+1004,C004,Neha,Mumbai,Chair,Furniture,4,2500,200,Credit Card
+1005,C005,Arjun,Bangalore,Headphones,Electronics,3,1500,100,UPI
+1006,C006,Sneha,Chennai,Keyboard,Electronics,2,1200,50,Cash
+1007,C007,Karan,Hyderabad,Monitor,Electronics,2,18000,1500,Credit Card
+1008,C008,Anjali,Kolkata,Sofa,Furniture,1,35000,3000,Debit Card
+1009,C009,Vikram,Mumbai,Mouse,Electronics,5,700,20,UPI
+1010,C010,Pooja,Pune,Desk,Furniture,2,8000,500,Credit Card
+1011,C011,Rohit,Delhi,TV,Electronics,1,55000,4000,Debit Card
+1012,C012,Meera,Chennai,Bookshelf,Furniture,2,6500,300,Cash
+1013,C013,Akash,Bangalore,Laptop,Electronics,1,72000,6000,Credit Card
+1014,C014,Divya,Hyderabad,Tablet,Electronics,2,28000,2500,UPI
+1015,C015,Nikhil,Mumbai,Printer,Electronics,1,15000,1000,Debit Card
